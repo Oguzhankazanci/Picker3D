@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e6bda5ca774c54a83358eab6af27ca, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  levelObjects:
+  - position: {x: 0, y: 0, z: -0.7874794}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Heart
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0, y: 0, z: 7.971305}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: -1.1055889, y: 0, z: 30.205135}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.2542572, y: 0, z: 37.391445}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: -1.0342932, y: 0, z: 44.13756}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0, y: 0, z: 60.180653}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Arrow
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0, y: 0, z: 71.7025}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Arrow
+    instantiatedObject: {fileID: 0}
+  pickerValues: 050000000500000007000000

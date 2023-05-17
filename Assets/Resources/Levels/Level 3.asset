@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e6bda5ca774c54a83358eab6af27ca, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  levelObjects:
+  - position: {x: -1.4118776, y: 0, z: -3.1832638}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.7613974, y: 0, z: 0.27830076}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: -0.90133286, y: 0, z: 7.8816023}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.3139744, y: 0, z: 12.411657}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Tower
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0.07501793, y: 0, z: 23.954296}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: CollectPower
+    instantiatedObject: {fileID: 0}
+  - position: {x: -0.86329746, y: 0, z: 29.957348}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.7097034, y: 0, z: 34.829174}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: -1.4220695, y: 0, z: 38.539505}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.2693195, y: 0, z: 42.769104}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0.29909897, y: 0, z: 54.926357}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: CollectPower
+    instantiatedObject: {fileID: 0}
+  - position: {x: -1.1940489, y: 0, z: 60.0491}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Arrow
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.3549557, y: 0, z: 67.04928}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Arrow
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0.15031052, y: 0, z: 73.80136}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Heart
+    instantiatedObject: {fileID: 0}
+  pickerValues: 09000000090000000c000000

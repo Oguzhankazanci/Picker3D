@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e6bda5ca774c54a83358eab6af27ca, type: 3}
+  m_Name: Level 7
+  m_EditorClassIdentifier: 
+  levelObjects:
+  - position: {x: -1.5873489, y: 0, z: 1.1095347}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Heart
+    instantiatedObject: {fileID: 0}
+  - position: {x: 1.299108, y: 0, z: 3.7781453}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Heart
+    instantiatedObject: {fileID: 0}
+  - position: {x: -1.5328884, y: 0, z: 10.234743}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: 0.91787815, y: 0, z: 12.195354}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: -0.007966518, y: 0, z: 28.518055}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Arrow
+    instantiatedObject: {fileID: 0}
+  - position: {x: -0.062428474, y: 0, z: 33.582973}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: CollectPower
+    instantiatedObject: {fileID: 0}
+  - position: {x: -0.0725584, y: 0, z: 39.00094}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: Circle
+    instantiatedObject: {fileID: 0}
+  - position: {x: -0.123959064, y: 0, z: 55.68438}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    prefebName: HelicopterObj
+    instantiatedObject: {fileID: 0}
+  pickerValues: 100000001000000012000000
